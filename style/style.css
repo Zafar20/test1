@@ -8,3 +8,13 @@
     height: 100vh;
     background: green;
 }
+.main {
+    height: 100vh;
+    background: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    color: white;
+    
+}
